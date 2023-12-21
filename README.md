@@ -1,4 +1,6 @@
-🌟 Image Slider infinity 🌈**
+#🌟 Image Slider infinity 🌈**
+
+![image](https://github.com/wasim0009/Image-slider-infinity/assets/117257818/34bbf256-1b86-4238-b37e-9c7e4c5d553a)
 
 **Description:**
 
